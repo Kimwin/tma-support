@@ -3,7 +3,7 @@
 Support page for **TMA: Anime & Manga Tracker** — hosted via GitHub Pages.
 
 ## Live URL
-[Github support page]([https://kimwin-l.github.io/tma-support](https://kimwin.github.io/tma-support/))
+[Github support page](https://kimwin.github.io/tma-support/)
 
 ## What's in this repo
 
